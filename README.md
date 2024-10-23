@@ -4,8 +4,8 @@ This C code creates an engaging 3D scene of a house using the OpenGL library. Th
 
 When running the .exe, make sure the freeglut.dll is in the same folder.
 
-![ezgif-1-f9e2fabc2e](https://github.com/user-attachments/assets/17606dc5-e2a4-48fa-97c9-eeb7ae0101dc)
 
+![ezgif-1-f73ca952a1](https://github.com/user-attachments/assets/96ca5f09-7f65-40cf-9838-ee718e3dedb3)
 
 
 ![image](https://github.com/raccoote/Spinning-Cube/assets/74006924/0c5ad375-3f4b-4af9-b7c3-4d1d29e71870)
